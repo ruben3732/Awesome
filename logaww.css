@@ -1,0 +1,56 @@
+body{
+	font-family: 'Alegreya Sans', sans-serif;
+	
+}
+
+.navig{
+	background-color: black;
+	text-transform: uppercase;
+
+}
+.nav-link{
+	color: white;
+	margin-left: 70px;
+}
+#heading{
+	color: white;
+margin-right: 50px;
+}
+#heading50{
+	margin-right: 140px;
+	color: white;
+	font-size: 16px;
+	margin-top: 15px;
+}
+.head1{
+	    color: #5b5b5b;
+    font-family: "Alegreya Sans", sans-serif;
+    text-rendering: optimizeLegibility;
+   text-transform: uppercase;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    text-align: center;
+}
+.btn{
+	margin-left:295px;
+}
+label{
+	margin-left: 440px;
+}
+.form-control{
+	width: 500px;
+	margin-left: 440px;
+}
+.pswd{
+	margin-left: 300px;
+}
+.cnfrm{
+	margin-left: 690px;
+}
+#btn5{
+	  background: #84d0b9;
+    color: #fff;
+width: 450px;
+margin-left: 470px;
+}
